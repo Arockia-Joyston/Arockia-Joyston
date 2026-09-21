@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=Arockia%20Joyston&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,14,18,20,24&section=header&animation=twinkling"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=PLAYER+FOUND...;WELCOME+TO+MY+PROFILE;LOADING+DEVELOPER+PROFILE...;SYSTEM+ONLINE+%E2%9C%85"/>
 
-<div align="center">
+# 🎮 AROCKIA JOYSTON
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B;I'm+Arockia+Joyston;Full+Stack+Developer+%F0%9F%92%BB;Backend+Developer+%E2%9A%99%EF%B8%8F;DSA+Learner+%F0%9F%A7%A0;Building+cool+things+with+code+%F0%9F%9A%80" />
+### `FULL STACK DEVELOPER`
 
-</div>
+`CSE STUDENT` • `BACKEND DEVELOPER` • `DSA GRINDER`
 
 <br>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
 
 </div>
 
@@ -22,31 +20,53 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+## 🟢 PLAYER PROFILE
+
+| 🎮 PLAYER | ⚔ CLASS | 🌎 STATUS |
+|:---:|:---:|:---:|
+| **Arockia Joyston** | **Developer** | 🟢 Online |
+| **CSE Student** | **Backend / Full Stack** | **Learning** |
+
+### LEVEL
+
+<img src="https://img.shields.io/badge/LEVEL-20-00ff9c?style=for-the-badge&labelColor=111111">
+
+<img src="https://progress-bar.dev/72/?title=XP&width=500&color=00ff9c&suffix=%25"/>
+
+`████████████████████░░░░░░░░` **72%**
 
 </div>
 
-<br>
+---
+
+## 🧬 CHARACTER STATS
+
+<div align="center">
+
+| STAT | LEVEL | PROGRESS |
+|:---|:---:|:---|
+| 🧠 Problem Solving | **LV. 08** | `████████░░` |
+| ⚙️ Backend | **LV. 08** | `████████░░` |
+| 🌐 Web Development | **LV. 08** | `████████░░` |
+| 🐍 Python | **LV. 07** | `███████░░░` |
+| 🟨 JavaScript | **LV. 08** | `████████░░` |
+| 🧩 DSA | **LV. 06** | `██████░░░░` |
+| 🤖 AI / ML | **LV. 04** | `████░░░░░░` |
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚔️ SKILL TREE
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
+<details>
+<summary><b>🌐 WEB DEVELOPMENT</b> ── [ UNLOCKED ]</summary>
+
+<br>
 
 ```text
-🎓 Computer Science Engineering Student
-
-💻 Full Stack Developer
-
-⚙️ Backend Development Enthusiast
-
-🧠 DSA & Problem Solving
-
-🚀 Building Real-World Projects
-
-🌱 Always Learning Something New
-
-🎯 Future Software Engineer
+HTML
+ └── CSS
+      └── JavaScript
+           └── Tailwind CSS
+                └── Web Applications
