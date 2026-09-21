@@ -1,72 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,14,18,20,24&section=header&animation=twinkling"/>
+# 👋 Hi, I'm Arockia Joyston
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=PLAYER+FOUND...;WELCOME+TO+MY+PROFILE;LOADING+DEVELOPER+PROFILE...;SYSTEM+ONLINE+%E2%9C%85"/>
+### 💻 Full Stack Developer | 🎓 Computer Science Engineering Student
 
-# 🎮 AROCKIA JOYSTON
+I enjoy building web applications, backend systems, and solving problems with code.
 
-### `FULL STACK DEVELOPER`
+<br/>
 
-`CSE STUDENT` • `BACKEND DEVELOPER` • `DSA GRINDER`
-
-<br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-## 🟢 PLAYER PROFILE
-
-| 🎮 PLAYER | ⚔ CLASS | 🌎 STATUS |
-|:---:|:---:|:---:|
-| **Arockia Joyston** | **Developer** | 🟢 Online |
-| **CSE Student** | **Backend / Full Stack** | **Learning** |
-
-### LEVEL
-
-<img src="https://img.shields.io/badge/LEVEL-20-00ff9c?style=for-the-badge&labelColor=111111">
-
-<img src="https://progress-bar.dev/72/?title=XP&width=500&color=00ff9c&suffix=%25"/>
-
-`████████████████████░░░░░░░░` **72%**
-
-</div>
+- 🎓 Computer Science Engineering student
+- 💻 Interested in Full Stack & Backend Development
+- 🧠 Currently improving my **Data Structures & Algorithms**
+- 🔨 Building projects to improve my development skills
+- 🌱 Always learning something new
+- 🎯 Working towards becoming a strong software engineer
 
 ---
 
-## 🧬 CHARACTER STATS
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-| STAT | LEVEL | PROGRESS |
-|:---|:---:|:---|
-| 🧠 Problem Solving | **LV. 08** | `████████░░` |
-| ⚙️ Backend | **LV. 08** | `████████░░` |
-| 🌐 Web Development | **LV. 08** | `████████░░` |
-| 🐍 Python | **LV. 07** | `███████░░░` |
-| 🟨 JavaScript | **LV. 08** | `████████░░` |
-| 🧩 DSA | **LV. 06** | `██████░░░░` |
-| 🤖 AI / ML | **LV. 04** | `████░░░░░░` |
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-</div>
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,tailwind" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 ---
 
-## ⚔️ SKILL TREE
-
-<details>
-<summary><b>🌐 WEB DEVELOPMENT</b> ── [ UNLOCKED ]</summary>
-
-<br>
+## 📚 Currently Learning
 
 ```text
-HTML
- └── CSS
-      └── JavaScript
-           └── Tailwind CSS
-                └── Web Applications
+Data Structures & Algorithms
+        ↓
+Problem Solving
+        ↓
+Backend Development
+        ↓
+Full Stack Development
+        ↓
+Building Real-World Projects
