@@ -32,16 +32,6 @@
 
 ---
 
-### 👾 Pac-Man Eats My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
-</p>
-
-> This animated Pac-Man munches through your real contribution graph. It needs a tiny one-time setup — see **"Activating the Pac-Man Animation"** at the bottom of this file.
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
