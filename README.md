@@ -38,7 +38,6 @@
   <a href="https://www.instagram.com/prince_of_joy__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" alt="Instagram" />
   </a>
-  <p>-----</p>
   <a href="mailto:arockiajoyston@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail" />
   </a>
